@@ -28,7 +28,7 @@ Before running the application, ensure you have the following:
 Clone the Repository:
 
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/maliktriestocode/Student-Management-API.git
 
 
 Run the Application:
@@ -57,10 +57,6 @@ Example Requests
 Create a Student
 Endpoint: POST /create-student/2
 
-Body:
-
-
-Copy
 {
   "name": "Alice",
   "age": 16,
@@ -72,10 +68,6 @@ Endpoint: GET /get-student/1
 Update a Student
 Endpoint: PUT /update-student/1
 
-Body:
-
-
-Copy
 {
   "name": "John Doe",
   "age": 18
